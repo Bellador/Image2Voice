@@ -1,0 +1,14 @@
+# Ignore everything
+*
+# Don't ignore directories, so we can recurse into them
+!*/
+# Don't ignore .gitignore and *.foo files
+!/images/fire_hydrant.jpg
+!main.py
+!cover.png
+!README.md
+!requirements.txt
+!.gitignore
+
+
+
